@@ -3,3 +3,4 @@ click-plugins
 colorama
 requests>=2.2.1
 XlsxWriter
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
