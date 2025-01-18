@@ -17,3 +17,4 @@ builtwith
 mechanize
 mysql
 MySQL-python
+pyopenssl>=24.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
